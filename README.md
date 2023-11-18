@@ -1,6 +1,7 @@
 ### ترکیب لینک سابسکریپشن های مختلف در ورکر کلودفلر
 
-```async function handleRequest(request) {
+```
+async function handleRequest(request) {
     const endpoints = [
         "https://test2.sub-channel.workers.dev/vless/iphone/random",
         "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix",
